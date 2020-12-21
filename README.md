@@ -32,4 +32,3 @@ Butona basıldığında geçiş reklamı çıkar. Bunun sıklığını admob üz
 <p class="has-line-data" data-line-start="28" data-line-end="30">License<br>
 Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.</p>
 <hr>
-<h2 class="code-line" data-line-start=31 data-line-end=33 ><a id="MIT_31"></a>MIT</h2>
