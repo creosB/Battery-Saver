@@ -29,6 +29,7 @@ Butona basıldığında geçiş reklamı çıkar. Bunun sıklığını admob üz
 </ul>
 </blockquote>
 <hr>
+<h2 class="code-line" data-line-start=23 data-line-end=25 ><a id="Creative_Commons_Zero_v10_Universal_23"></a>Creative Commons Zero v1.0 Universal</h2>
 <p class="has-line-data" data-line-start="28" data-line-end="30">License<br>
 Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.</p>
 <hr>
