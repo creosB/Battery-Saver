@@ -1,9 +1,11 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Battery_Saver_Uygulamas_0"></a>Battery Saver Uygulaması</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Battery_Saver_Uygulamas_0"></a>Battery Saver Uygulaması / Battery Saver Application</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=4 ><a id="NSolidhttpsplaylhgoogleusercontentcom4ChxU_bzuJe8ix7IC7fYOq5xH3rtDjDMFogy4NsF6l8jNH9Q_G7zQUWoZtWvkliyww2247h1264rwhttpwwwartistscompanydigital_2"></a><a href="http://www.artistscompany.digital/"><img src="https://play-lh.googleusercontent.com/4ChxU_bzuJe8ix7IC7fYOq5xH3rtDjDMFogy4NsF6l8jNH9Q_G7z-QUWoZtWvkliyw=w2247-h1264-rw" alt="N|Solid"></a></h2>
 <p class="has-line-data" data-line-start="4" data-line-end="6">Battery Saver Uygulaması dart ile kodlanmıştır.<br>
-Uygulama üzerinden pil sağlığı için geliştirme yapabilirsiniz.</p>
+Uygulama üzerinden pil sağlığı için geliştirme yapabilirsiniz.<br>
+The battery Saver Application is coded with the dart.<br>
+You can improve battery health through the application.</p>
 <hr>
-<h1 class="code-line" data-line-start=7 data-line-end=8 ><a id="zelikleri_7"></a>Özelikleri</h1>
+<h1 class="code-line" data-line-start=7 data-line-end=8 ><a id="zelikleri_7"></a>Özelikleri / Properties</h1>
 <ul>
 <li class="has-line-data" data-line-start="9" data-line-end="10">Cache, temp gibi dosyaları temizler.<br>
 It cleans files like cache, temp.</li>
