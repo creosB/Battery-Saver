@@ -27,12 +27,12 @@ The brightness setting is connected to the button but can be changed optionally 
 Flutter application has source code.</li>
 </ul>
 <hr>
-<h1 class="code-line" data-line-start=19 data-line-end=20 ><a id="Resimler_19"></a>Resimler</h1>
+<h1 class="code-line" data-line-start=19 data-line-end=20 ><a id="Resimler_19"></a>Resimler / Pictures</h1>
 <p class="has-line-data" data-line-start="20" data-line-end="23"><img src="https://raw.githubusercontent.com/creosB/Battery-Saver/main/resim1.jpg" alt="N|Solid"><br>
 <img src="https://raw.githubusercontent.com/creosB/Battery-Saver/main/resim2.jpg" alt="N|Solid"><br>
 <img src="https://raw.githubusercontent.com/creosB/Battery-Saver/main/resim3.jpg" alt="N|Solid"></p>
 <hr>
-<h1 class="code-line" data-line-start=24 data-line-end=25 ><a id="Bilmeniz_gerekenler_24"></a>Bilmeniz gerekenler</h1>
+<h1 class="code-line" data-line-start=24 data-line-end=25 ><a id="Bilmeniz_gerekenler_24"></a>Bilmeniz gerekenler / What you need to know</h1>
 <blockquote>
 <ul>
 <li class="has-line-data" data-line-start="25" data-line-end="26">Dosyayı seçip direkt projeyi çalıştırabilirsiniz.<br>
